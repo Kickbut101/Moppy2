@@ -13,3 +13,5 @@ https://github.com/samphonic/Moppy2
 https://mcuoneclipse.com/2016/06/15/tutorial-making-music-with-floppy-diskdrives/
 
 https://www.vgmusic.com/music/console/nintendo/n64/
+
+https://github.com/coon42/Floppy-Music--midis-/tree/master/midis/MrSolidSnake745
